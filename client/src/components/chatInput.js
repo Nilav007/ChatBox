@@ -26,3 +26,4 @@ function ChatInput({handleSendMsg}) {
 }
 
 export default ChatInput
+
